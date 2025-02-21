@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/217969733296267907/fc16fb72aa824046afa34576f1e6ddcf/artifacts
+end_time: 1740151656321
+entry_point_name: ''
+experiment_id: '217969733296267907'
+lifecycle_stage: active
+run_id: fc16fb72aa824046afa34576f1e6ddcf
+run_name: youthful-toad-108
+run_uuid: fc16fb72aa824046afa34576f1e6ddcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740151647582
+status: 3
+tags: []
+user_id: SAMANWAYA

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/217969733296267907/7b2d7de9257d416d9b2fe718c4d8da62/artifacts
+end_time: 1740149275439
+entry_point_name: ''
+experiment_id: '217969733296267907'
+lifecycle_stage: active
+run_id: 7b2d7de9257d416d9b2fe718c4d8da62
+run_name: suave-grub-989
+run_uuid: 7b2d7de9257d416d9b2fe718c4d8da62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740149251995
+status: 3
+tags: []
+user_id: SAMANWAYA
