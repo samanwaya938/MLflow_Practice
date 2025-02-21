@@ -20,7 +20,7 @@ mlflow.set_experiment('mlExp')
 
 with mlflow.start_run():
 
-  lg = LogisticRegression(max_iter=500, random_state=40, solver='lbfgs', multi_class='auto',  penalty='l2', verbose=1)
+  lg = LogisticRegression(max_iter=1000, random_state=40, solver='lbfgs', multi_class='auto',  penalty='l2', verbose=1)
   lg.fit(X_train, y_train)
   y_pred = lg.predict(X_test)
   accouracy = accuracy_score(y_test, y_pred)
