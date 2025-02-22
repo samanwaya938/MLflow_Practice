@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/fd49018b5a1c48b3b043a3b872becf72/artifacts
+end_time: 1740235670989
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: fd49018b5a1c48b3b043a3b872becf72
+run_name: popular-koi-592
+run_uuid: fd49018b5a1c48b3b043a3b872becf72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740235670942
+status: 4
+tags: []
+user_id: SAMANWAYA

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/2a1ed8a0c7694da781e02459b43be5ce/artifacts
+end_time: 1740241487871
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 2a1ed8a0c7694da781e02459b43be5ce
+run_name: useful-sponge-997
+run_uuid: 2a1ed8a0c7694da781e02459b43be5ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740241487806
+status: 3
+tags: []
+user_id: SAMANWAYA

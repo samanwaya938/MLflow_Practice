@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/c070f053fdcb42e3b664f0bf154014e2/artifacts
+end_time: 1740235141740
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: c070f053fdcb42e3b664f0bf154014e2
+run_name: burly-lark-242
+run_uuid: c070f053fdcb42e3b664f0bf154014e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740235132424
+status: 3
+tags: []
+user_id: SAMANWAYA

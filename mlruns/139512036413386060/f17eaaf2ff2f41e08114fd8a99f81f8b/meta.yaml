@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/f17eaaf2ff2f41e08114fd8a99f81f8b/artifacts
+end_time: 1740241488045
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: f17eaaf2ff2f41e08114fd8a99f81f8b
+run_name: inquisitive-frog-171
+run_uuid: f17eaaf2ff2f41e08114fd8a99f81f8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740241487970
+status: 3
+tags: []
+user_id: SAMANWAYA

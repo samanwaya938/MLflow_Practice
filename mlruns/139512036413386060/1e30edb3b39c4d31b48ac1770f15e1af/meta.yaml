@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/1e30edb3b39c4d31b48ac1770f15e1af/artifacts
+end_time: 1740237049577
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 1e30edb3b39c4d31b48ac1770f15e1af
+run_name: vaunted-ox-772
+run_uuid: 1e30edb3b39c4d31b48ac1770f15e1af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740237049519
+status: 3
+tags: []
+user_id: SAMANWAYA

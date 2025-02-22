@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/aa5a1ed246be4efeb9ba0b0e340005e5/artifacts
+end_time: 1740241489161
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: aa5a1ed246be4efeb9ba0b0e340005e5
+run_name: kindly-asp-217
+run_uuid: aa5a1ed246be4efeb9ba0b0e340005e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740241489088
+status: 3
+tags: []
+user_id: SAMANWAYA

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/2ba9be19e9024376b307a4aa2617db66/artifacts
+end_time: 1740241487526
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 2ba9be19e9024376b307a4aa2617db66
+run_name: powerful-perch-794
+run_uuid: 2ba9be19e9024376b307a4aa2617db66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740241487442
+status: 3
+tags: []
+user_id: SAMANWAYA

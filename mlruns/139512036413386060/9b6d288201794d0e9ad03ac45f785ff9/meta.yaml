@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/9b6d288201794d0e9ad03ac45f785ff9/artifacts
+deleted_time: 1740241572674
+end_time: 1740241348633
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: deleted
+run_id: 9b6d288201794d0e9ad03ac45f785ff9
+run_name: calm-stag-873
+run_uuid: 9b6d288201794d0e9ad03ac45f785ff9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740241344219
+status: 4
+tags: []
+user_id: SAMANWAYA

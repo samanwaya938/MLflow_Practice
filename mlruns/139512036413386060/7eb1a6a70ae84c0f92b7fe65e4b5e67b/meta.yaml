@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/7eb1a6a70ae84c0f92b7fe65e4b5e67b/artifacts
+end_time: 1740241487703
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 7eb1a6a70ae84c0f92b7fe65e4b5e67b
+run_name: whimsical-bee-574
+run_uuid: 7eb1a6a70ae84c0f92b7fe65e4b5e67b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740241487633
+status: 3
+tags: []
+user_id: SAMANWAYA

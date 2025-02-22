@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/37346342e2384c4e9abff6f6e83ae675/artifacts
+end_time: 1740237049181
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 37346342e2384c4e9abff6f6e83ae675
+run_name: stately-vole-906
+run_uuid: 37346342e2384c4e9abff6f6e83ae675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740237049124
+status: 3
+tags: []
+user_id: SAMANWAYA

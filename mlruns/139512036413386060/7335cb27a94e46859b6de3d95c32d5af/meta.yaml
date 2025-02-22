@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/7335cb27a94e46859b6de3d95c32d5af/artifacts
+end_time: 1740241489072
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 7335cb27a94e46859b6de3d95c32d5af
+run_name: invincible-crane-221
+run_uuid: 7335cb27a94e46859b6de3d95c32d5af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740241489001
+status: 3
+tags: []
+user_id: SAMANWAYA

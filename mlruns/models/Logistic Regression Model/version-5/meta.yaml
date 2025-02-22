@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1740235141718
+current_stage: None
+description: null
+last_updated_timestamp: 1740235141718
+name: Logistic Regression Model
+run_id: c070f053fdcb42e3b664f0bf154014e2
+run_link: null
+source: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/c070f053fdcb42e3b664f0bf154014e2/artifacts/Logistic
+  Regression Model
+status: READY
+status_message: null
+storage_location: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/c070f053fdcb42e3b664f0bf154014e2/artifacts/Logistic
+  Regression Model
+user_id: null
+version: 5

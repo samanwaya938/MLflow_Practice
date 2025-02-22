@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/f64342e1087e4efd8a0cbe2b6c760aeb/artifacts
+end_time: 1740241488417
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: f64342e1087e4efd8a0cbe2b6c760aeb
+run_name: powerful-gnu-178
+run_uuid: f64342e1087e4efd8a0cbe2b6c760aeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740241488334
+status: 3
+tags: []
+user_id: SAMANWAYA

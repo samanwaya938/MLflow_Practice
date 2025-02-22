@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/b7401e8bdc7a4c57b2031a463abb9681/artifacts
+deleted_time: 1740241572652
+end_time: 1740241319025
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: deleted
+run_id: b7401e8bdc7a4c57b2031a463abb9681
+run_name: gaudy-hawk-284
+run_uuid: b7401e8bdc7a4c57b2031a463abb9681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740241313381
+status: 4
+tags: []
+user_id: SAMANWAYA

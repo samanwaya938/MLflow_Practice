@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/217969733296267907/f0c42f30b0214556aa1a957fda3c83d4/artifacts
+end_time: 1740231956950
+entry_point_name: ''
+experiment_id: '217969733296267907'
+lifecycle_stage: active
+run_id: f0c42f30b0214556aa1a957fda3c83d4
+run_name: unequaled-hound-558
+run_uuid: f0c42f30b0214556aa1a957fda3c83d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740231941995
+status: 3
+tags: []
+user_id: SAMANWAYA

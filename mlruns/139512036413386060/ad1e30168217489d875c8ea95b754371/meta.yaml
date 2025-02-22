@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/ad1e30168217489d875c8ea95b754371/artifacts
+end_time: 1740241487430
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: ad1e30168217489d875c8ea95b754371
+run_name: nebulous-dove-372
+run_uuid: ad1e30168217489d875c8ea95b754371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740241487349
+status: 3
+tags: []
+user_id: SAMANWAYA

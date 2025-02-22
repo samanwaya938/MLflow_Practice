@@ -15,6 +15,17 @@ y = load_iris().target
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
+lg = LogisticRegression(max_iter=1000, random_state=40, solver='lbfgs', multi_class='auto',  penalty='l2', verbose=1)
+  lg.fit(X_train, y_train)
+  y_pred = lg.predict(X_test)
+  accouracy = accuracy_score(y_test, y_pred)
+  class_report = classification_report(y_test, y_pred)
+  print(f'Accuracy: {accouracy}')
+  print(f'Classification Report:\n{class_report}')
+
+  confusion_mat = confusion_matrix(y_test, y_pred)
+  print(f'Confusion Matrix:\n{confusion_mat}') 
+
 
 mlflow.set_experiment('mlExp')
 

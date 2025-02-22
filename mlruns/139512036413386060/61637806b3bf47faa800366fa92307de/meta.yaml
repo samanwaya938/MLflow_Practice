@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/61637806b3bf47faa800366fa92307de/artifacts
+end_time: 1740241488224
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 61637806b3bf47faa800366fa92307de
+run_name: adorable-chimp-258
+run_uuid: 61637806b3bf47faa800366fa92307de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740241488133
+status: 3
+tags: []
+user_id: SAMANWAYA

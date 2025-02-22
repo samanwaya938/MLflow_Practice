@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740241494319
+current_stage: None
+description: null
+last_updated_timestamp: 1740241494319
+name: Best_Logistic_Regression_Model
+run_id: c4302d6f5d5142b886af4d6fa7c761cb
+run_link: null
+source: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/c4302d6f5d5142b886af4d6fa7c761cb/artifacts/best_model
+status: READY
+status_message: null
+storage_location: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/c4302d6f5d5142b886af4d6fa7c761cb/artifacts/best_model
+user_id: null
+version: 2

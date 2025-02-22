@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/02a5b127c9b346bcb4d16dc0cb91addc/artifacts
+end_time: 1740235948495
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 02a5b127c9b346bcb4d16dc0cb91addc
+run_name: gentle-horse-81
+run_uuid: 02a5b127c9b346bcb4d16dc0cb91addc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740235934057
+status: 3
+tags: []
+user_id: SAMANWAYA

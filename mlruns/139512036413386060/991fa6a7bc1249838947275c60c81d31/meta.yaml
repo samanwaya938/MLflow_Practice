@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/991fa6a7bc1249838947275c60c81d31/artifacts
+end_time: 1740237050412
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 991fa6a7bc1249838947275c60c81d31
+run_name: chill-snail-77
+run_uuid: 991fa6a7bc1249838947275c60c81d31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740237050337
+status: 3
+tags: []
+user_id: SAMANWAYA

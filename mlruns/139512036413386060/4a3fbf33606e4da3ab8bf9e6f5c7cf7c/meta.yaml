@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/4a3fbf33606e4da3ab8bf9e6f5c7cf7c/artifacts
+end_time: 1740237049377
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 4a3fbf33606e4da3ab8bf9e6f5c7cf7c
+run_name: secretive-skink-486
+run_uuid: 4a3fbf33606e4da3ab8bf9e6f5c7cf7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740237049317
+status: 3
+tags: []
+user_id: SAMANWAYA

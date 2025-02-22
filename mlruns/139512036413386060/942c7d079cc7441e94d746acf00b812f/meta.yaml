@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/942c7d079cc7441e94d746acf00b812f/artifacts
+end_time: 1740241488323
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 942c7d079cc7441e94d746acf00b812f
+run_name: incongruous-lynx-105
+run_uuid: 942c7d079cc7441e94d746acf00b812f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740241488241
+status: 3
+tags: []
+user_id: SAMANWAYA

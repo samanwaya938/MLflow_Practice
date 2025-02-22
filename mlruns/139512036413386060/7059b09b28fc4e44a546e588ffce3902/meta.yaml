@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/7059b09b28fc4e44a546e588ffce3902/artifacts
+end_time: 1740237050587
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 7059b09b28fc4e44a546e588ffce3902
+run_name: sedate-bug-566
+run_uuid: 7059b09b28fc4e44a546e588ffce3902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740237050515
+status: 3
+tags: []
+user_id: SAMANWAYA

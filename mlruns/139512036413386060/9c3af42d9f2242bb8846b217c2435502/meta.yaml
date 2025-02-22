@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/9c3af42d9f2242bb8846b217c2435502/artifacts
+end_time: 1740241488787
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 9c3af42d9f2242bb8846b217c2435502
+run_name: smiling-ape-675
+run_uuid: 9c3af42d9f2242bb8846b217c2435502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740241488687
+status: 3
+tags: []
+user_id: SAMANWAYA

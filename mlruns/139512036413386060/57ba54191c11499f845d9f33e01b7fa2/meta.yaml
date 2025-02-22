@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/57ba54191c11499f845d9f33e01b7fa2/artifacts
+deleted_time: 1740241572654
+end_time: 1740240858602
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: deleted
+run_id: 57ba54191c11499f845d9f33e01b7fa2
+run_name: big-squirrel-634
+run_uuid: 57ba54191c11499f845d9f33e01b7fa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740240852702
+status: 4
+tags: []
+user_id: SAMANWAYA

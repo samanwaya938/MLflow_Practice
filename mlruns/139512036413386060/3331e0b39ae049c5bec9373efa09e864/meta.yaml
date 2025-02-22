@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/3331e0b39ae049c5bec9373efa09e864/artifacts
+end_time: 1740237049710
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 3331e0b39ae049c5bec9373efa09e864
+run_name: welcoming-fox-699
+run_uuid: 3331e0b39ae049c5bec9373efa09e864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740237049650
+status: 3
+tags: []
+user_id: SAMANWAYA

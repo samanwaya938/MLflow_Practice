@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/4f4709168b7f4ea2aa39463c29e3e43a/artifacts
+deleted_time: 1740241572651
+end_time: 1740241406565
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: deleted
+run_id: 4f4709168b7f4ea2aa39463c29e3e43a
+run_name: loud-panda-774
+run_uuid: 4f4709168b7f4ea2aa39463c29e3e43a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740241401989
+status: 4
+tags: []
+user_id: SAMANWAYA

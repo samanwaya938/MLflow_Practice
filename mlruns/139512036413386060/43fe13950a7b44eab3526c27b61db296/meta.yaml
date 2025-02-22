@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/43fe13950a7b44eab3526c27b61db296/artifacts
+end_time: 1740241488597
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 43fe13950a7b44eab3526c27b61db296
+run_name: valuable-midge-346
+run_uuid: 43fe13950a7b44eab3526c27b61db296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740241488525
+status: 3
+tags: []
+user_id: SAMANWAYA

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/783ed377c12c4fbfac9555210bb6ed47/artifacts
+end_time: 1740237049440
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 783ed377c12c4fbfac9555210bb6ed47
+run_name: unleashed-hen-426
+run_uuid: 783ed377c12c4fbfac9555210bb6ed47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740237049386
+status: 3
+tags: []
+user_id: SAMANWAYA

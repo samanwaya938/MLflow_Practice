@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/3cc916cac2d943ea9328a535946b3285/artifacts
+end_time: 1740241488671
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 3cc916cac2d943ea9328a535946b3285
+run_name: gregarious-vole-359
+run_uuid: 3cc916cac2d943ea9328a535946b3285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740241488608
+status: 3
+tags: []
+user_id: SAMANWAYA

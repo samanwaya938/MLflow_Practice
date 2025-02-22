@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/2b4512b7340441c7b5afb9c16214ef78/artifacts
+end_time: 1740241488512
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: 2b4512b7340441c7b5afb9c16214ef78
+run_name: salty-shark-142
+run_uuid: 2b4512b7340441c7b5afb9c16214ef78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740241488430
+status: 3
+tags: []
+user_id: SAMANWAYA

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/Mlflowpractice2/mlruns/139512036413386060/de7cb5fbd2864cd88c20e71ec5dfc7bf/artifacts
+end_time: 1740237049308
+entry_point_name: ''
+experiment_id: '139512036413386060'
+lifecycle_stage: active
+run_id: de7cb5fbd2864cd88c20e71ec5dfc7bf
+run_name: upset-yak-589
+run_uuid: de7cb5fbd2864cd88c20e71ec5dfc7bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740237049252
+status: 3
+tags: []
+user_id: SAMANWAYA
